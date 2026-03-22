@@ -53,11 +53,11 @@ export default function HomePage() {
               <div style={{ background: "white", borderRadius: "var(--radius-xl)", padding: "2rem", boxShadow: "var(--shadow-lg)" }}>
                 <h3 style={{ fontSize: "1.25rem", fontWeight: 800, color: "var(--green-900)", marginBottom: "1rem" }}>Key Takeaways</h3>
                 <ul className="grid-list">
-                  <li>Access expert pest management in Nairobi and across the country.</li>
+                  <li>Access <a href="https://pestraid.co.ke/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">expert pest control services in Nairobi</a> and across the country.</li>
                   <li>Reach us at 0710907628 for immediate support.</li>
-                  <li>Protect your property from <a href="https://pestraid.co.ke/services/mosquitoes-and-sandflies-control-services-and-pricing-in-kenya/" className="backlink text-green-700 font-medium" target="_blank" rel="noopener noreferrer">disease-carrying insects</a>.</li>
+                  <li>Protect your property with specialized <a href="https://pestraid.co.ke/services/mosquitoes-and-sandflies-control-services-and-pricing-in-kenya/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">mosquito and sandfly control programs</a>.</li>
                   <li>Benefit from eco-friendly treatment methods.</li>
-                  <li>Email <a href="https://pestraid.co.ke/" className="backlink text-green-700 font-medium" target="_blank" rel="noopener noreferrer">sales@pestraid.co.ke</a> for detailed service quotes.</li>
+                  <li>Email sales@pestraid.co.ke for detailed service quotes.</li>
                   <li>Ensure <strong>long-term prevention</strong> for homes and offices.</li>
                 </ul>
               </div>
@@ -75,15 +75,15 @@ export default function HomePage() {
             
             <h3>Common Pests Affecting Kenyan Households</h3>
             <p>Many pests trouble Kenyan homes, like cockroaches, bed bugs, and termites.</p>
-            <p><strong>Common household pests in Kenya include:</strong></p>
+            <p><strong>Common household pest issues in Kenya that require intervention include:</strong></p>
             <ul>
-              <li><a href="https://pestraid.co.ke/services/cockroaches-control-services-and-pricing-in-kenya/" className="backlink underline font-medium" target="_blank" rel="noopener noreferrer">Cockroaches</a></li>
-              <li><a href="https://pestraid.co.ke/services/bed-bugs-control-services-and-pricing-in-kenya/" className="backlink underline font-medium" target="_blank" rel="noopener noreferrer">Bed bugs</a></li>
-              <li><a href="https://www.termitescontrolservices.co.ke/" className="backlink underline font-medium" target="_blank" rel="noopener noreferrer">Termites</a></li>
-              <li><a href="https://pestraid.co.ke/services/rat-and-rodents-control-service-and-pricing-in-kenya/" className="backlink underline font-medium" target="_blank" rel="noopener noreferrer">Rodents</a></li>
-              <li><a href="https://pestraid.co.ke/services/spider-control-services-and-pricing-in-kenya/" className="backlink underline font-medium" target="_blank" rel="noopener noreferrer">Spiders</a></li>
-              <li><a href="https://pestraid.co.ke/services/houseflies-control-services-and-pricing-in-kenya/" className="backlink underline font-medium" target="_blank" rel="noopener noreferrer">Houseflies</a></li>
-              <li><a href="https://pestraid.co.ke/services/snake-control-services-and-pricing-in-kenya/" className="backlink underline font-medium" target="_blank" rel="noopener noreferrer">Snakes</a> & <a href="https://pestraid.co.ke/services/fleas-control-services-and-pricing-in-kenya/" className="backlink underline font-medium" target="_blank" rel="noopener noreferrer">Fleas</a></li>
+              <li>Health-threatening infestations that need <a href="https://pestraid.co.ke/services/cockroaches-control-services-and-pricing-in-kenya/" className="backlink text-green-700 underline font-medium" target="_blank" rel="noopener noreferrer">guaranteed cockroach control services</a>.</li>
+              <li>Persistent nighttime biters requiring <a href="https://pestraid.co.ke/services/bed-bugs-control-services-and-pricing-in-kenya/" className="backlink text-green-700 underline font-medium" target="_blank" rel="noopener noreferrer">comprehensive bed bug control services</a>.</li>
+              <li>Wood-destroying insects requiring intervention from <a href="https://www.termitescontrolservices.co.ke/" className="backlink text-green-700 underline font-medium" target="_blank" rel="noopener noreferrer">dedicated termite control specialists</a>.</li>
+              <li>Destructive invaders needing <a href="https://pestraid.co.ke/services/rat-and-rodents-control-service-and-pricing-in-kenya/" className="backlink text-green-700 underline font-medium" target="_blank" rel="noopener noreferrer">effective rat and rodent control services</a>.</li>
+              <li>Venomous or nuisance arachnids that demand <a href="https://pestraid.co.ke/services/spider-control-services-and-pricing-in-kenya/" className="backlink text-green-700 underline font-medium" target="_blank" rel="noopener noreferrer">targeted spider control solutions</a>.</li>
+              <li>Unsanitary flying pests managed through our <a href="https://pestraid.co.ke/services/houseflies-control-services-and-pricing-in-kenya/" className="backlink text-green-700 underline font-medium" target="_blank" rel="noopener noreferrer">housefly control and sanitation services</a>.</li>
+              <li>Dangerous reptiles needing <a href="https://pestraid.co.ke/services/snake-control-services-and-pricing-in-kenya/" className="backlink text-green-700 underline font-medium" target="_blank" rel="noopener noreferrer">professional snake control and removal</a>, alongside parasitic insects eliminated by <a href="https://pestraid.co.ke/services/fleas-control-services-and-pricing-in-kenya/" className="backlink text-green-700 underline font-medium" target="_blank" rel="noopener noreferrer">trusted flea control interventions</a>.</li>
             </ul>
             <p>Cockroaches spread diseases and cause allergies. Bed bugs are annoying with their bites. Termites quietly harm homes&apos; structures.</p>
             
@@ -155,7 +155,7 @@ export default function HomePage() {
           <div className="prose">
             <h2>Selecting the Right Fumigation and Extermination Services in Kenya</h2>
             <p>Kenya has many pests, so picking the right fumigation and <strong>extermination services</strong> is key. The success of pest control depends on the service provider&apos;s skills and trustworthiness.</p>
-            <p>Choosing the right service involves looking at several important factors. This makes sure the service fits our needs and solves pest problems for good. For specialized eradication services, consider partnering with <a href="https://www.exterminate.co.ke/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">Exterminate Kenya</a>.</p>
+            <p>Choosing the right service involves looking at several important factors. This makes sure the service fits our needs and solves pest problems for good. For high-quality, specialized eradication, consider partnering with the <a href="https://www.exterminate.co.ke/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">professional pest exterminators at Exterminate Kenya</a>.</p>
 
             <h3>Evaluating Experience and Certification Standards</h3>
             <p>When looking at fumigation and <strong>extermination services</strong> in Kenya, experience and certifications matter a lot. A service with lots of experience can tackle many pest control issues.</p>
@@ -264,7 +264,7 @@ export default function HomePage() {
             <p>Knowing which pests are common in each area is key. We&apos;ll talk about how to get rid of cockroaches and bed bugs. We&apos;ll also share tips on managing termite damage to keep your place safe.</p>
 
             <h3>Eradicating Cockroaches and Bed Bugs Effectively</h3>
-            <p>Cockroaches and bed bugs are big problems in Kenya. <strong><a href="https://pestraid.co.ke/services/cockroaches-control-services-and-pricing-in-kenya/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">Cockroaches</a></strong> spread diseases and cause allergies. <strong><a href="https://pestraid.co.ke/services/bed-bugs-control-services-and-pricing-in-kenya/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">Bed bugs</a></strong> make you uncomfortable with their bites.</p>
+            <p>Cockroaches and bed bugs are big problems in Kenya. Attempting to manage an infestation without <a href="https://pestraid.co.ke/services/cockroaches-control-services-and-pricing-in-kenya/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">guaranteed cockroach control services</a> often prolongs the issue, as cockroaches rapidly spread diseases and trigger allergies. Similarly, ignoring the signs of nighttime biters necessitates <a href="https://pestraid.co.ke/services/bed-bugs-control-services-and-pricing-in-kenya/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">expert bed bug eradication</a> to restore your comfort and sleep quality.</p>
             <p>To get rid of them, you should:</p>
             <ul>
               <li>Keep your place clean to cut down on their food and shelter.</li>
@@ -274,7 +274,7 @@ export default function HomePage() {
             <p>If the problem is really bad, you might need a pro. Our team has the tools and skills to get rid of them for good.</p>
 
             <h3>Managing Termite Colonies to Protect Structural Integrity</h3>
-            <p>Termites are a big danger to buildings in Kenya. <em>Finding termite activity early</em> is the best way to avoid big damage.</p>
+            <p>Termites are a big danger to buildings in Kenya. <em>Finding termite activity early</em> is the best way to avoid big damage. If you notice signs of an infestation, it is highly recommended to reach out to <a href="https://www.termitescontrolservices.co.ke/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">Termites Control Services Kenya</a> for a thorough assessment.</p>
             <table className="styled-table">
               <thead><tr><th>Termite Type</th><th>Characteristics</th><th>Management Strategies</th></tr></thead>
               <tbody>
@@ -282,7 +282,7 @@ export default function HomePage() {
                 <tr><td>Drywood Termites</td><td>Live in wood, do not require soil contact</td><td>Fumigation, localized treatments</td></tr>
               </tbody>
             </table>
-            <p>We use different methods, like soil treatment and baiting, to fight termites. Regular checks help catch problems early. Click here to view <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">termite control pricing in Kenya</a>.</p>
+            <p>We use different methods, like soil treatment and baiting, to fight termites. Regular checks help catch problems early, which is why property owners increasingly rely on our <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">specialized termite control treatments and pricing</a> for long-term protection.</p>
 
             <Image
               src="https://storage.googleapis.com/48877118-7272-4a4d-b302-0465d8aa4548/7c0a2c4a-a634-4054-b24b-e945f97660ec/2ef1d48b-f310-4896-8242-52ae34f090dc.jpg"
@@ -350,7 +350,7 @@ export default function HomePage() {
         <div className="container" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "4rem" }}>
           <div className="prose">
             <h2>Maintaining a Pest-Free Environment Post-Treatment</h2>
-            <p>Keeping your place pest-free is not just about one-time fumigation. It takes ongoing effort and dedication. After getting <strong>fumigation and extermination services</strong> in Kenya, it&apos;s key to keep up practices that stop pests from coming back. This keeps your property healthy and safe.</p>
+            <p>Keeping your place pest-free is not just about one-time fumigation. It takes ongoing effort and dedication. After securing <a href="https://pestraid.co.ke/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">comprehensive pest management solutions from Pestraid</a>, it&apos;s key to keep up practices that stop pests from coming back. This protects your health and property.</p>
 
             <h3>Sanitation Practices That Deter Future Pests</h3>
             <p>Good sanitation is key to stopping pests. <strong>Regular cleaning and decluttering</strong> help a lot. Here are some important sanitation tips:</p>
