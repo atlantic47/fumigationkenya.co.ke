@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return { title: "Post Not Found" };
   }
   return {
-    title: `${post.title} | FumigationKenya`,
+    title: `${post.title} | Pestraid Kenya`,
     description: post.excerpt,
     alternates: { canonical: `https://fumigationkenya.co.ke/blog/${post.slug}` },
     openGraph: {
@@ -47,12 +47,12 @@ export default async function BlogPostPage({ params }: Props) {
     description: post.excerpt,
     author: {
       "@type": "Organization",
-      name: "FumigationKenya",
+      name: "Pestraid Kenya",
       url: "https://fumigationkenya.co.ke"
     },
     publisher: {
       "@type": "Organization",
-      name: "FumigationKenya",
+      name: "Pestraid Kenya",
     },
     datePublished: post.date,
     dateModified: post.date,

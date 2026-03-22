@@ -4,7 +4,7 @@ import { serviceAreas } from "../_lib/data";
 
 export const metadata: Metadata = {
   title: "Areas We Serve | Pest Control Coverage Across Kenya",
-  description: "FumigationKenya provides professional termite and pest control services across Kenya including Nairobi, Mombasa, Kisumu, Nakuru, and Eldoret. Find your area.",
+  description: "Pestraid Kenya provides professional termite and pest control services across Kenya including Nairobi, Mombasa, Kisumu, Nakuru, and Eldoret. Find your area.",
   alternates: { canonical: "https://fumigationkenya.co.ke/service-areas" },
 };
 
@@ -55,7 +55,7 @@ export default function ServiceAreasPage() {
               <Link href="/contact" className="btn btn-outline-green">Send Us a Message</Link>
             </div>
             <p style={{ marginTop: "2rem", fontSize: "0.85rem", color: "var(--gray-500)" }}>
-              For specialized commercial pest management reaching remote facilities, we also recommend checking coverage with <a href="https://pestraid.co.ke/" target="_blank" rel="noopener noreferrer" className="backlink">PestrAid Kenya</a>.
+              For specialized commercial pest management reaching remote facilities, we also recommend checking coverage with <a href="https://pestraid.co.ke/" target="_blank" rel="noopener noreferrer" className="backlink">Pestraid Kenya</a>.
             </p>
           </div>
         </div>

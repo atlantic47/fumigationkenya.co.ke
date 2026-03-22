@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "About Us | FumigationKenya — Termite Specialists in Kenya",
-  description: "FumigationKenya is Kenya's leading termite control and pest management company. Learn about our mission, expertise, and commitment to eco-friendly pest solutions.",
+  title: "About Us | Pestraid Kenya — Termite Specialists in Kenya",
+  description: "Pestraid Kenya is Kenya's leading termite control and pest management company. Learn about our mission, expertise, and commitment to eco-friendly pest solutions.",
   alternates: { canonical: "https://fumigationkenya.co.ke/about" },
 };
 
@@ -15,7 +15,7 @@ export default function AboutPage() {
         <div className="container" style={{ textAlign: "center" }}>
           <span className="badge badge-yellow" style={{ marginBottom: "1rem" }}>Who We Are</span>
           <h1 style={{ fontFamily: "var(--font-heading)", fontSize: "clamp(2rem,5vw,3rem)", fontWeight: 800, color: "white", marginBottom: "1rem" }}>
-            About FumigationKenya
+            About Pestraid Kenya
           </h1>
           <p style={{ color: "rgba(255,255,255,0.85)", fontSize: "1.0625rem", maxWidth: 560, margin: "0 auto" }}>
             Termite control specialists protecting Kenyan homes and businesses since 2014
@@ -32,7 +32,7 @@ export default function AboutPage() {
               <h2 className="section-title">Kenya&apos;s Termite Control Specialists</h2>
               <div className="divider"></div>
               <p style={{ color: "var(--gray-600)", lineHeight: 1.8, marginBottom: "1.25rem" }}>
-                At FumigationKenya, we position ourselves as termite specialists first — because termites are Kenya&apos;s most destructive and most misunderstood pest. Every year, Kenyan homeowners lose millions of shillings to termite damage that could have been prevented or treated early.
+                At Pestraid Kenya, we position ourselves as termite specialists first — because termites are Kenya&apos;s most destructive and most misunderstood pest. Every year, Kenyan homeowners lose millions of shillings to termite damage that could have been prevented or treated early.
               </p>
               <p style={{ color: "var(--gray-600)", lineHeight: 1.8, marginBottom: "1.25rem" }}>
                 Our team was founded with a single purpose: to give Kenyan property owners access to the same quality of termite control that is available in developed markets — at fair, transparent pricing.
@@ -40,7 +40,7 @@ export default function AboutPage() {
               <p style={{ color: "var(--gray-600)", lineHeight: 1.8, marginBottom: "2rem" }}>
                 We work within a broader network of pest control professionals across Kenya. Our trusted partner,{" "}
                 <a href="https://pestraid.co.ke/" target="_blank" rel="noopener noreferrer" className="backlink">
-                  PestrAid Kenya — professional pest control services across Kenya
+                  Pestraid Kenya — professional pest control services across Kenya
                 </a>
                 , shares our commitment to quality and safety standards.
               </p>

@@ -57,7 +57,7 @@ export default function RodentPage() {
 
             <p>For more details on commercial rates and service packages across Kenya, please review{" "}
               <a href="https://pestraid.co.ke/services/rat-and-rodents-control-service-and-pricing-in-kenya/" target="_blank" rel="noopener noreferrer" className="backlink">
-                PestrAid Kenya&apos;s rat and rodent control pricing
+                Pestraid Kenya&apos;s rat and rodent control pricing
               </a>.
             </p>
 

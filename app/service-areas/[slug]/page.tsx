@@ -42,7 +42,7 @@ export default async function LocationPage({ params }: Props) {
               Professional Pest Control in {area.name}
             </h1>
             <p style={{ color: "rgba(255,255,255,0.88)", fontSize: "1.0625rem", lineHeight: 1.75, marginBottom: "2rem" }}>
-              FumigationKenya provides rapid, reliable pest management services throughout {area.name} and surrounding areas. Protecting local homes and businesses with guaranteed results.
+              Pestraid Kenya provides rapid, reliable pest management services throughout {area.name} and surrounding areas. Protecting local homes and businesses with guaranteed results.
             </p>
             <div style={{ display: "flex", gap: "1rem", flexWrap: "wrap" }}>
               <a href="tel:+254710907628" className="btn btn-primary btn-lg">📞 Contact {area.name} Team</a>
@@ -81,7 +81,7 @@ export default async function LocationPage({ params }: Props) {
             </ul>
 
             <p>For alternative local pest control quotes in {area.name}, you can also connect with our partners at{" "}
-              <a href="https://pestraid.co.ke/" target="_blank" rel="noopener noreferrer" className="backlink">PestrAid Kenya</a>.
+              <a href="https://pestraid.co.ke/" target="_blank" rel="noopener noreferrer" className="backlink">Pestraid Kenya</a>.
             </p>
           </div>
 

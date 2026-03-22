@@ -14,7 +14,7 @@ export const stats = [
 ];
 
 export const testimonials = [
-  { name: "James Mwangi", location: "Nairobi, Karen", rating: 5, text: "We had a serious termite problem that damaged part of our wooden ceiling. The FumigationKenya team came in, assessed the damage, and treated the entire house within two days. Six months later, no sign of termites.", service: "Termite Control" },
+  { name: "James Mwangi", location: "Nairobi, Karen", rating: 5, text: "We had a serious termite problem that damaged part of our wooden ceiling. The Pestraid Kenya team came in, assessed the damage, and treated the entire house within two days. Six months later, no sign of termites.", service: "Termite Control" },
   { name: "Grace Akinyi", location: "Mombasa, Nyali", rating: 5, text: "Bed bugs had made life unbearable for my family for months. After one treatment, they were completely gone. The technician was professional, explained everything clearly, and the results were amazing.", service: "Bed Bug Treatment" },
   { name: "Peter Kamau", location: "Nakuru", rating: 5, text: "Our warehouse had a serious rodent infestation that was damaging stock. The team set up a full rodent control program. Within three weeks, the problem was fully resolved.", service: "Rodent Control" },
   { name: "Faith Njeri", location: "Nairobi, Westlands", rating: 5, text: "I am very impressed by the professionalism. They came on time, used eco-friendly products, and followed up after one week to make sure everything was fine. My apartment has been pest-free since.", service: "General Fumigation" },

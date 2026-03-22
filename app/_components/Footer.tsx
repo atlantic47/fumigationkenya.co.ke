@@ -27,9 +27,9 @@ export default function Footer() {
             {/* Brand */}
             <div style={{ gridColumn: "span 1" }}>
               <div style={{ display: "flex", alignItems: "center", gap: "0.75rem", marginBottom: "1.25rem" }}>
-                <div style={{ width: 42, height: 42, borderRadius: "50%", background: "var(--yellow-400)", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "1.1rem", fontWeight: 800, color: "var(--green-900)", flexShrink: 0 }}>FK</div>
+                <div style={{ width: 42, height: 42, borderRadius: "50%", background: "var(--yellow-400)", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "1.1rem", fontWeight: 800, color: "var(--green-900)", flexShrink: 0 }}>PK</div>
                 <div>
-                  <div style={{ color: "white", fontFamily: "var(--font-heading)", fontWeight: 700, fontSize: "1rem" }}>FumigationKenya</div>
+                  <div style={{ color: "white", fontFamily: "var(--font-heading)", fontWeight: 700, fontSize: "1rem" }}>Pestraid Kenya</div>
                   <div style={{ color: "var(--yellow-300)", fontSize: "0.65rem", letterSpacing: "0.05em" }}>PEST CONTROL SPECIALISTS</div>
                 </div>
               </div>
@@ -96,7 +96,7 @@ export default function Footer() {
               </ul>
               <div style={{ marginTop: "1.5rem", padding: "1rem", background: "rgba(255,255,255,0.05)", borderRadius: "var(--radius)", border: "1px solid rgba(255,255,255,0.08)" }}>
                 <p style={{ fontSize: "0.8rem", color: "var(--green-300)", marginBottom: "0.5rem" }}>Pest control partner network:</p>
-                <a href="https://pestraid.co.ke/" target="_blank" rel="noopener noreferrer" style={{ color: "var(--yellow-300)", fontSize: "0.85rem", fontWeight: 600 }}>PestrAid Kenya →</a>
+                <a href="https://pestraid.co.ke/" target="_blank" rel="noopener noreferrer" style={{ color: "var(--yellow-300)", fontSize: "0.85rem", fontWeight: 600 }}>Pestraid Kenya →</a>
               </div>
             </div>
           </div>
@@ -107,7 +107,7 @@ export default function Footer() {
       <div style={{ background: "var(--black)", padding: "1rem 0" }}>
         <div className="container" style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: "0.5rem" }}>
           <p style={{ color: "var(--gray-500)", fontSize: "0.8rem", margin: 0 }}>
-            © 2025 FumigationKenya.co.ke. All rights reserved. | Professional Pest Control in Kenya
+            © 2025 Pestraid Kenya. All rights reserved. | Professional Pest Control in Kenya
           </p>
           <p style={{ color: "var(--gray-600)", fontSize: "0.78rem", margin: 0 }}>
             Licensed Pest Control Provider · Kenya Pest Control Products Board Compliant

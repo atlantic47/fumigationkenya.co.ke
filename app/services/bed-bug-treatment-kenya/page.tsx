@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Bed Bug Treatment Kenya | Professional Elimination — FumigationKenya",
+  title: "Bed Bug Treatment Kenya | Professional Elimination — Pestraid Kenya",
   description: "Professional bed bug treatment in Kenya. We eliminate bed bugs from mattresses, furniture, and walls using heat treatment and targeted pesticides. Call 0710 907 628.",
   alternates: { canonical: "https://fumigationkenya.co.ke/services/bed-bug-treatment-kenya" },
 };
@@ -61,7 +61,7 @@ export default function BedBugPage() {
 
             <p>For comparison and additional resources on bed bug control options in Kenya, see{" "}
               <a href="https://pestraid.co.ke/services/bed-bugs-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener noreferrer" className="backlink">
-                PestrAid Kenya&apos;s bed bug treatment pricing guide
+                Pestraid Kenya&apos;s bed bug treatment pricing guide
               </a>.
             </p>
 

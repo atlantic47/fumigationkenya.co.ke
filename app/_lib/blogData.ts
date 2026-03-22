@@ -57,7 +57,7 @@ export const blogPosts: BlogPost[] = [
 <h2>What to Do If You Find Termites</h2>
 <p>Do NOT disturb the mud tubes or spray DIY chemicals. This often scatters the colony deeper into your structure and makes professional treatment harder. Instead, <strong>call a licensed termite control specialist</strong>.</p>
 <p>For professional termite inspection and treatment across Kenya, our team provides fast, thorough assessments. You can also learn about <a href="/services/termite-control-kenya">our termite control services</a> and what treatment options are available.</p>
-<p>For broader pest control needs, <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">PestrAid Kenya also offers termite treatment services and pricing guides</a> that can help you understand what professional treatment costs.</p>
+<p>For broader pest control needs, <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">Pestraid Kenya also offers termite treatment services and pricing guides</a> that can help you understand what professional treatment costs.</p>
 
 <h2>Conclusion</h2>
 <p>Early detection is the single most effective way to protect your home from termite damage. Do a quick inspection of your foundations, wooden structures, and walls at least twice a year — especially before and after the rainy season. If you spot any of these signs, act fast.</p>
@@ -89,7 +89,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Is Termite Treatment Worth the Cost?</h2>
 <p>Absolutely. The average cost of structural repairs from termite damage in Kenya ranges from KSh 50,000 to over KSh 500,000 for serious infestations. Prevention and early treatment are significantly cheaper.</p>
-<p>To get a proper quote based on your specific situation, <a href="/contact">contact us for a free inspection</a>. You can also compare pricing from <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">PestrAid Kenya's termite control pricing page</a> to understand market rates.</p>
+<p>To get a proper quote based on your specific situation, <a href="/contact">contact us for a free inspection</a>. You can also compare pricing from <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">Pestraid Kenya's termite control pricing page</a> to understand market rates.</p>
 `,
   },
   {
@@ -119,7 +119,7 @@ export const blogPosts: BlogPost[] = [
 <p>Hospitality, food service, and healthcare businesses require pest-free certification. Professional fumigation comes with documentation you can use for health inspections.</p>
 
 <h2>What Does Professional Fumigation Involve?</h2>
-<p>A professional team conducts a full property inspection, identifies pests and entry points, selects the correct treatment method, applies it safely, and schedules follow-up visits. For comprehensive professional services across Kenya, see <a href="https://pestraid.co.ke/" class="backlink" target="_blank" rel="noopener">PestrAid Kenya's pest control services</a>.</p>
+<p>A professional team conducts a full property inspection, identifies pests and entry points, selects the correct treatment method, applies it safely, and schedules follow-up visits. For comprehensive professional services across Kenya, see <a href="https://pestraid.co.ke/" class="backlink" target="_blank" rel="noopener">Pestraid Kenya's pest control services</a>.</p>
 `,
   },
   {
@@ -148,7 +148,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Our Recommendation</h2>
 <p>Use DIY for prevention. Use professionals for treatment — especially for <a href="/services/termite-control-kenya">termites</a>, <a href="/services/bed-bug-treatment-kenya">bed bugs</a>, and <a href="/services/rodent-control-kenya">rodents</a>. These pests require targeted, professional-grade approaches to eliminate effectively.</p>
-<p>For a comparison of professional pest control providers in Kenya, <a href="https://pestraid.co.ke/" class="backlink" target="_blank" rel="noopener">PestrAid Kenya</a> is another trusted resource to consider alongside our services.</p>
+<p>For a comparison of professional pest control providers in Kenya, <a href="https://pestraid.co.ke/" class="backlink" target="_blank" rel="noopener">Pestraid Kenya</a> is another trusted resource to consider alongside our services.</p>
 `,
   },
   {
@@ -177,7 +177,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>During the Rainy Season</h2>
 <p>Keep your gutters clear and ensure water drains away from your foundation. If you see flying termites (swarmers) inside your home, don't panic — but do call a specialist. Swarmers indicate an existing nearby colony.</p>
-<p>For professional termite treatment and prevention, see our full guide to <a href="/services/termite-control-kenya">termite control in Kenya</a>. You can also find seasonal pest control tips on <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">PestrAid Kenya's termite services page</a>.</p>
+<p>For professional termite treatment and prevention, see our full guide to <a href="/services/termite-control-kenya">termite control in Kenya</a>. You can also find seasonal pest control tips on <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">Pestraid Kenya's termite services page</a>.</p>
 `,
   },
   {
@@ -261,7 +261,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>How Bad Is the Damage?</h2>
 <p>Damage severity is categorised as: surface damage (outer layer only, least serious), gallery damage (termites have eaten through the wood, leaving only a shell), and structural failure (the wood has lost structural integrity and must be replaced).</p>
-<p>If you suspect structural damage, do not delay. <a href="/contact">Contact us immediately</a> for an urgent inspection. Our termite specialists can assess the damage and recommend treatment plus repair guidance. You can also explore <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">termite treatment options on PestrAid Kenya</a>.</p>
+<p>If you suspect structural damage, do not delay. <a href="/contact">Contact us immediately</a> for an urgent inspection. Our termite specialists can assess the damage and recommend treatment plus repair guidance. You can also explore <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">termite treatment options on Pestraid Kenya</a>.</p>
 `,
   },
   {
@@ -361,7 +361,7 @@ export const blogPosts: BlogPost[] = [
 <li>Seal gaps around pipes and behind appliances</li>
 </ul>
 
-<p>For effective, long-lasting cockroach control in Kenya, see our <a href="/services/cockroach-control-kenya">professional cockroach control service</a>. For a broader view of pest control options, <a href="https://pestraid.co.ke/services/cockroaches-control-services-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">PestrAid Kenya's cockroach control page</a> is also a useful resource.</p>
+<p>For effective, long-lasting cockroach control in Kenya, see our <a href="/services/cockroach-control-kenya">professional cockroach control service</a>. For a broader view of pest control options, <a href="https://pestraid.co.ke/services/cockroaches-control-services-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">Pestraid Kenya's cockroach control page</a> is also a useful resource.</p>
 `,
   },
   {
@@ -392,7 +392,7 @@ export const blogPosts: BlogPost[] = [
 <h2>Heat Treatment</h2>
 <p>Professional heat treatment (raising room temperature to 60°C+) is the most effective single-treatment method for bed bugs. It kills bugs and eggs in one session without chemicals.</p>
 
-<p>For professional bed bug treatment in Kenya, see our <a href="/services/bed-bug-treatment-kenya">bed bug treatment service page</a>. Also check <a href="https://pestraid.co.ke/services/bed-bugs-control-services-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">PestrAid Kenya's bed bug services</a> for treatment options and pricing comparison.</p>
+<p>For professional bed bug treatment in Kenya, see our <a href="/services/bed-bug-treatment-kenya">bed bug treatment service page</a>. Also check <a href="https://pestraid.co.ke/services/bed-bugs-control-services-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">Pestraid Kenya's bed bug services</a> for treatment options and pricing comparison.</p>
 `,
   },
   {
@@ -426,7 +426,7 @@ export const blogPosts: BlogPost[] = [
 <h3>Rodenticide Bait Stations</h3>
 <p>Locked bait stations are placed in strategic locations away from pets and children. Multiple visits ensure all rodents have been eliminated.</p>
 
-<p>For professional rodent control in Nairobi and across Kenya, see our <a href="/services/rodent-control-kenya">rodent control service</a>. You can also review <a href="https://pestraid.co.ke/services/rat-and-rodents-control-service-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">PestrAid Kenya's rodent control and pricing guide</a>.</p>
+<p>For professional rodent control in Nairobi and across Kenya, see our <a href="/services/rodent-control-kenya">rodent control service</a>. You can also review <a href="https://pestraid.co.ke/services/rat-and-rodents-control-service-and-pricing-in-kenya/" class="backlink" target="_blank" rel="noopener">Pestraid Kenya's rodent control and pricing guide</a>.</p>
 `,
   },
   {
@@ -464,7 +464,7 @@ export const blogPosts: BlogPost[] = [
 <li>Prices seem suspiciously low</li>
 </ul>
 
-<p>We meet all of these standards. <a href="/contact">Contact us</a> for a transparent quote and inspection. You can also consider <a href="https://pestraid.co.ke/" class="backlink" target="_blank" rel="noopener">PestrAid Kenya</a> — another licensed professional pest control partner operating across Kenya.</p>
+<p>We meet all of these standards. <a href="/contact">Contact us</a> for a transparent quote and inspection. You can also consider <a href="https://pestraid.co.ke/" class="backlink" target="_blank" rel="noopener">Pestraid Kenya</a> — another licensed professional pest control partner operating across Kenya.</p>
 `,
   },
   {
@@ -500,7 +500,7 @@ export const blogPosts: BlogPost[] = [
 
 <h2>Service Area and Commercial Packages</h2>
 <p>We offer property management packages for landlords with multiple units across Kenya. Get in touch via our <a href="/contact">contact page</a> for custom commercial pricing.</p>
-<p>For landlords needing a second quote, <a href="https://pestraid.co.ke/" class="backlink" target="_blank" rel="noopener">PestrAid Kenya</a> is a trusted pest control partner worth comparing against our services.</p>
+<p>For landlords needing a second quote, <a href="https://pestraid.co.ke/" class="backlink" target="_blank" rel="noopener">Pestraid Kenya</a> is a trusted pest control partner worth comparing against our services.</p>
 `,
   },
 ];

@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "FumigationKenya | Fumigation and Extermination Services in Kenya",
+  title: "Pestraid Kenya | Fumigation and Extermination Services in Kenya",
   description: "Living in a tropical climate often brings unwanted pests into our living spaces. We know how important a clean environment is for your health.",
   alternates: { canonical: "https://fumigationkenya.co.ke" },
 };

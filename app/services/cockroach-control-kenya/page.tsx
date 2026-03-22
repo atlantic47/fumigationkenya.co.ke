@@ -50,7 +50,7 @@ export default function CockroachPage() {
 
             <p>For additional details on commercial and residential cockroach control, you can also review{" "}
               <a href="https://pestraid.co.ke/services/cockroaches-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener noreferrer" className="backlink">
-                PestrAid Kenya&apos;s cockroach control services
+                Pestraid Kenya&apos;s cockroach control services
               </a>.
             </p>
 

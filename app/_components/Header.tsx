@@ -31,9 +31,9 @@ export default function Header() {
       <div className="container" style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "1rem var(--container-px)" }}>
         {/* Logo */}
         <Link href="/" style={{ display: "flex", alignItems: "center", gap: "0.75rem", textDecoration: "none" }}>
-          <div style={{ width: 42, height: 42, borderRadius: "50%", background: "var(--yellow-400)", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "1.3rem", fontWeight: 800, color: "var(--green-900)", flexShrink: 0 }}>FK</div>
+          <div style={{ width: 42, height: 42, borderRadius: "50%", background: "var(--yellow-400)", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "1.3rem", fontWeight: 800, color: "var(--green-900)", flexShrink: 0 }}>PK</div>
           <div>
-            <div style={{ color: "white", fontFamily: "var(--font-heading)", fontWeight: 700, fontSize: "1.1rem", lineHeight: 1.1 }}>FumigationKenya</div>
+            <div style={{ color: "white", fontFamily: "var(--font-heading)", fontWeight: 700, fontSize: "1.1rem", lineHeight: 1.1 }}>Pestraid Kenya</div>
             <div style={{ color: "var(--yellow-300)", fontSize: "0.7rem", letterSpacing: "0.05em" }}>PEST CONTROL SPECIALISTS</div>
           </div>
         </Link>

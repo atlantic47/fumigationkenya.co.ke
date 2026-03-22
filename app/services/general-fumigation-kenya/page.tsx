@@ -58,7 +58,7 @@ export default function GeneralFumigationPage() {
 
             <p>For more details on commercial rates, you can check{" "}
               <a href="https://pestraid.co.ke/" target="_blank" rel="noopener noreferrer" className="backlink">
-                professional pest control services on PestrAid Kenya
+                professional pest control services on Pestraid Kenya
               </a>.
             </p>
 

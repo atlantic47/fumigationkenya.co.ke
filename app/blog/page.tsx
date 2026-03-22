@@ -3,7 +3,7 @@ import Link from "next/link";
 import { blogPosts } from "../_lib/blogData";
 
 export const metadata: Metadata = {
-  title: "Pest Control Blog & Tips | FumigationKenya",
+  title: "Pest Control Blog & Tips | Pestraid Kenya",
   description: "Expert advice on termite prevention, pest control costs, and fumigation tips for Kenyan homeowners and businesses.",
   alternates: { canonical: "https://fumigationkenya.co.ke/blog" },
 };

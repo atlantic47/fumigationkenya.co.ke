@@ -12,7 +12,7 @@ const serviceSchema = {
   "@context": "https://schema.org",
   "@type": "Service",
   name: "Termite Control Kenya",
-  provider: { "@type": "LocalBusiness", name: "FumigationKenya", telephone: "+254710907628" },
+  provider: { "@type": "LocalBusiness", name: "Pestraid Kenya", telephone: "+254710907628" },
   areaServed: "Kenya",
   description: "Professional termite control services in Kenya including soil treatment, baiting systems, and fumigation for subterranean and drywood termites.",
 };
@@ -144,7 +144,7 @@ export default function TermiteControlPage() {
             </table>
             <p>For a detailed breakdown, read <Link href="/blog/cost-of-termite-treatment-kenya">our guide to termite treatment costs in Kenya</Link>.</p>
 
-            <h2>Why Choose FumigationKenya for Termite Control?</h2>
+            <h2>Why Choose Pestraid Kenya for Termite Control?</h2>
             <p>We are termite specialists, not generalists. Our technicians are trained specifically in termite biology, behaviour, and treatment — giving you a higher standard of service than a typical general pest control company.</p>
             <p>Our approach:</p>
             <ul>
@@ -156,7 +156,7 @@ export default function TermiteControlPage() {
             </ul>
             <p>For alternative quotes and additional information on termite treatment options in Kenya, our trusted industry partner{" "}
               <a href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" target="_blank" rel="noopener noreferrer" className="backlink">
-                PestrAid Kenya&apos;s termite treatment and pricing guide
+                Pestraid Kenya&apos;s termite treatment and pricing guide
               </a>{" "}
               is a valuable resource for comparing services.
             </p>

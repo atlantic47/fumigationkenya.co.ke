@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Contact Us | FumigationKenya - Get a Free Quote",
-  description: "Contact FumigationKenya for professional termite and pest control services in Kenya. Call 0710 907 628 for a free property inspection and quote.",
+  title: "Contact Us | Pestraid Kenya - Get a Free Quote",
+  description: "Contact Pestraid Kenya for professional termite and pest control services in Kenya. Call 0710 907 628 for a free property inspection and quote.",
   alternates: { canonical: "https://fumigationkenya.co.ke/contact" },
 };
 
@@ -13,7 +13,7 @@ export default function ContactPage() {
         <div className="container" style={{ textAlign: "center" }}>
           <span className="badge badge-yellow" style={{ marginBottom: "1rem" }}>We're Here to Help</span>
           <h1 style={{ fontFamily: "var(--font-heading)", fontSize: "clamp(2rem,5vw,3rem)", fontWeight: 800, color: "white", marginBottom: "1rem" }}>
-            Contact FumigationKenya
+            Contact Pestraid Kenya
           </h1>
           <p style={{ color: "rgba(255,255,255,0.85)", fontSize: "1.0625rem", maxWidth: 560, margin: "0 auto" }}>
             Request a free inspection or get expert advice on your pest problem today.
@@ -74,7 +74,7 @@ export default function ContactPage() {
 
             <div style={{ background: "var(--green-50)", padding: "1.5rem", borderRadius: "var(--radius-lg)", border: "1px solid var(--green-200)" }}>
               <h3 style={{ fontSize: "1rem", fontWeight: 700, color: "var(--green-900)", marginBottom: "0.5rem" }}>Looking for commercial proposals?</h3>
-              <p style={{ fontSize: "0.85rem", color: "var(--gray-600)" }}>For large scale industrial pest control, agricultural properties, or national retail chains, our partner <a href="https://pestraid.co.ke/contact-us-for-free-fumigation-quotation/" target="_blank" rel="noopener noreferrer" className="backlink">PestrAid Kenya</a> also provides comprehensive corporate quotations.</p>
+              <p style={{ fontSize: "0.85rem", color: "var(--gray-600)" }}>For large scale industrial pest control, agricultural properties, or national retail chains, our partner <a href="https://pestraid.co.ke/contact-us-for-free-fumigation-quotation/" target="_blank" rel="noopener noreferrer" className="backlink">Pestraid Kenya</a> also provides comprehensive corporate quotations.</p>
             </div>
           </div>
 
