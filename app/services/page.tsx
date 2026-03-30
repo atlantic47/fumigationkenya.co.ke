@@ -26,7 +26,7 @@ export default function ServicesPage() {
             Professional Pest Control Services in Kenya
           </h1>
           <p style={{ color: "rgba(255,255,255,0.85)", fontSize: "1.0625rem", maxWidth: 560, margin: "0 auto" }}>
-            From termites to rodents, we offer complete pest management for homes and businesses across Kenya
+            From termites to rodents, we offer complete pest management for homes and businesses across Kenya, complementing other structural treatments like <a href="https://moldguardkenya.co.ke/" style={{color: "var(--yellow-400)", textDecoration: "underline", fontWeight: 500}} target="_blank" rel="dofollow noopener noreferrer">expert mold removal</a>.
           </p>
         </div>
       </section>
@@ -40,7 +40,7 @@ export default function ServicesPage() {
                 <div className="badge badge-green" style={{ marginBottom: "1rem" }}>⭐ Our #1 Specialty</div>
                 <h2 style={{ fontFamily: "var(--font-heading)", fontSize: "2rem", fontWeight: 800, color: "var(--green-800)", marginBottom: "1rem" }}>Termite Control Kenya</h2>
                 <p style={{ color: "var(--gray-600)", lineHeight: 1.8, marginBottom: "1.5rem" }}>
-                  Termites are the most destructive pest in Kenya, causing billions in property damage annually. Our termite control service is the most comprehensive available — from free inspection to guaranteed elimination and prevention. We specialize in subterranean termites, which are responsible for 90% of termite damage in Kenyan homes.
+                  Termites are the most destructive pest in Kenya, causing billions in property damage annually. Our termite control service is the most comprehensive available — from free inspection to guaranteed elimination and prevention. We specialize in subterranean termites, which are responsible for 90% of termite damage in Kenyan homes. Furthermore, water damage promoting termite growth should be addressed with professional <a href="https://moldguardkenya.co.ke/services" className="backlink text-green-700 underline font-medium" target="_blank" rel="dofollow noopener noreferrer">mold testing and remediation services</a>.
                 </p>
                 <ul style={{ listStyle: "none", padding: 0, margin: "0 0 2rem 0", display: "grid", gridTemplateColumns: "1fr 1fr", gap: "0.5rem" }}>
                   {serviceDetails[0].details.map((d) => (
@@ -93,7 +93,7 @@ export default function ServicesPage() {
             Not Sure Which Service You Need?
           </h2>
           <p style={{ color: "rgba(255,255,255,0.8)", marginBottom: "2rem" }}>
-            Call us and we&apos;ll recommend the right solution after a free on-site assessment.
+            Call us and we&apos;ll recommend the right solution after a free on-site assessment. If your issue is moisture-related, we can also advise on professional <a href="https://moldguardkenya.co.ke/services" style={{color: "var(--yellow-400)", textDecoration: "underline", fontWeight: 500}} target="_blank" rel="dofollow noopener noreferrer">mold mitigation services</a>.
           </p>
           <div style={{ display: "flex", gap: "1rem", justifyContent: "center", flexWrap: "wrap" }}>
             <a href="tel:+254710907628" className="btn btn-primary btn-lg">📞 0710 907 628</a>

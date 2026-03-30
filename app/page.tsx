@@ -88,7 +88,7 @@ export default function HomePage() {
             <p>Cockroaches spread diseases and cause allergies. Bed bugs are annoying with their bites. Termites quietly harm homes&apos; structures.</p>
             
             <h3>The Impact of Seasonal Changes on Pest Activity</h3>
-            <p>Seasonal changes greatly affect pest activity in Kenya. Rainy seasons bring more termites and cockroaches because of the moisture.</p>
+            <p>Seasonal changes greatly affect pest activity in Kenya. Rainy seasons bring more termites and cockroaches because of the moisture, which can also necessitate <a href="https://moldguardkenya.co.ke/" className="backlink text-green-700 underline font-medium" target="_blank" rel="dofollow noopener noreferrer">professional mold removal in Kenya</a> if not addressed quickly.</p>
             <p>In dry seasons, pests like rodents seek water in homes. Knowing these patterns helps in controlling pests better.</p>
           </div>
           
@@ -197,7 +197,7 @@ export default function HomePage() {
             <p>We search for things like droppings, gnaw marks, and nests. Our team knows how to spot small signs of pests. This makes sure we don&apos;t miss any problems.</p>
             
             <h3>Using Advanced Detection Tools for Accurate Identification</h3>
-            <p>To correctly identify pests, we use special tools. These include moisture meters to find hidden moisture, and thermal imaging cameras to spot heat or hidden pests. We also use other special equipment.</p>
+            <p>To correctly identify pests, we use special tools. These include moisture meters to find hidden moisture—which may also require <a href="https://moldguardkenya.co.ke/services" className="backlink text-green-700 underline font-medium" target="_blank" rel="dofollow noopener noreferrer">certified mold inspection services</a> to evaluate—and thermal imaging cameras to spot heat or hidden pests. We also use other special equipment.</p>
             <p>Our advanced technology makes our inspections more precise. This lets us create specific treatment plans for your property&apos;s pest issues.</p>
             <table className="styled-table">
               <thead><tr><th>Tool/Technique</th><th>Purpose</th></tr></thead>
@@ -350,7 +350,7 @@ export default function HomePage() {
         <div className="container" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "4rem" }}>
           <div className="prose">
             <h2>Maintaining a Pest-Free Environment Post-Treatment</h2>
-            <p>Keeping your place pest-free is not just about one-time fumigation. It takes ongoing effort and dedication. After securing <a href="https://pestraid.co.ke/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">comprehensive pest management solutions from Pestraid</a>, it&apos;s key to keep up practices that stop pests from coming back. This protects your health and property.</p>
+            <p>Keeping your place pest-free is not just about one-time fumigation. It takes ongoing effort and dedication. After securing <a href="https://pestraid.co.ke/" className="backlink text-green-700 font-medium underline" target="_blank" rel="noopener noreferrer">comprehensive pest management solutions from Pestraid</a>, it&apos;s key to keep up practices that stop pests from coming back, and address any dampness that might invite pests or require a <a href="https://moldguardkenya.co.ke/" className="backlink text-green-700 font-medium underline" target="_blank" rel="dofollow noopener noreferrer">mold remediation expert</a>. This protects your health and property.</p>
 
             <h3>Sanitation Practices That Deter Future Pests</h3>
             <p>Good sanitation is key to stopping pests. <strong>Regular cleaning and decluttering</strong> help a lot. Here are some important sanitation tips:</p>
